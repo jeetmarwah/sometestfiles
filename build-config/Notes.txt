@@ -1,0 +1,7 @@
+hermes-ads\builds contains the production binaries.
+This folder mirrors the file storage at S3.
+
+Requirements:
+
+1/ all files must be signed.
+2/ once published, file updates are not allowed; changes must commit with new aid-bid.
