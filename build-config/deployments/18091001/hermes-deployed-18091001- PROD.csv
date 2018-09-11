@@ -1,0 +1,7 @@
+aid,bid,cls,channel,market,label,priority,embargo,arrival,sampling,analytics,retention
+343485f401,"180907","acer.universal.2","Ebates","{incl=[US], excl=[]}","{incl=[], excl=[A001, S001]}","5","48","0","0,100","UA-101952962-15","UA-101952962-15"
+343485f402,"180907","acer.universal.2","Ebates","{incl=[CA], excl=[]}","{incl=[], excl=[A001, S001]}","5","48","0","0,100","UA-101952962-15","UA-101952962-15"
+a8a2975901,"180830","acer.universal.2","Amazon","{incl=[US], excl=[]}","{incl=[], excl=[A001, S001]}","5","48","0","0,100","UA-101952962-14","UA-101952962-14"
+ace200be02,"180809","acer.oobe.3","Hermes","{incl=[US, CA, GB, AU], excl=[CN, CU, IR, KP, SD, SY]}","{incl=[], excl=[S001]}","1","0","0","0,100","UA-119336999-5","UA-119336999-5"
+ace200be04,"180814","acer.universal.2","Dropbox","{incl=[AU], excl=[]}","{incl=[], excl=[S001]}","5","48","48","0,100","UA-119336999-7","UA-119336999-7"
+1000030100,"180909","0","Hermes","{incl=[US, CA, 1L, FR, DE, GB, 1N, RU, 1E, AU, JP, KR, 1A, CN, TW], excl=[]}","{incl=[], excl=[]}","9","0","0","0,100","UA-119336999-8","UA-119336999-8"
